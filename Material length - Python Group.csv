@@ -1,0 +1,20 @@
+,,"Companion data with the paper ""Investigating the impact of adopting Python and C languages for introductory engineering programming courses"" submitted to Computer Applications in Engineering Education Journal. If you use this data, please include a reference to the paper.",,,,,,
+Weeks,Curriculum,Slides,Class - Theory 1,Class - Theory 2,Class - Theory 3,Class - Theory Sum,Pratice,Total
+1,Course presentation,26,0:09:38,0:13:15,-,0:22:53,0:06:54,0:29:47
+2,Sequence programming,33,0:14:36,0:30:00,-,0:44:36,0:11:03,0:55:39
+3,Conditional programming 1 (if-else),45,0:20:01,0:16:16,0:14:42,0:50:59,0:15:58,1:06:57
+4,Conditional programming 2 (elif),23,0:15:16,0:12:23,-,0:27:39,0:21:47,0:49:26
+5,Iterative programming 1 (while),37,0:33:26,0:16:19,0:09:56,0:59:41,0:17:09,1:16:50
+6,Iterative programming 2 (for),34,0:25:28,0:15:09,-,0:40:37,0:15:35,0:56:12
+7,Data structures 1 (list),34,0:31:58,0:19:08,-,0:51:06,0:21:37,1:12:43
+8,Data structures 2 (string),19,0:12:34,0:17:30,-,0:30:04,0:28:01,0:58:05
+9,Data structures 3 (dictionary),47,0:29:31,0:21:36,-,0:51:07,0:17:57,1:09:04
+10,1st exam,,-,-,-,,,
+11,Subprogramming 1,52,0:21:36,0:29:43,0:09:16,1:00:35,0:19:09,1:19:44
+12,Subprogramming 2,30,0:28:53,0:12:23,-,0:41:16,0:37:45,1:19:01
+13,Introduction to oriented object programming 1,20,0:34:31,-,-,0:34:31,0:22:20,0:56:51
+14,Introduction to oriented object programming 2,18,0:20:54,-,-,0:20:54,0:21:02,0:41:56
+15,Files,22,0:41:33,-,-,0:41:33,0:37:05,1:18:38
+16,2nd exam,-,-,-,,-,-,-
+17,Retake exam,-,-,-,-,-,-,-
+,Total:,440,-,-,-,7:39:03,4:19:27,11:58:30

@@ -1,0 +1,108 @@
+,"Companion data with the paper ""Investigating the impact of adopting Python and C languages for introductory engineering programming courses"" submitted to Computer Applications in Engineering Education Journal. If you use this data, please include a reference to the paper.",,,,,
+PYTHON Students,"O1 - Suppose you are hired to develop a program that stores and manages student information at a university. Choose the best alternative that represents an important question to ask at the beginning of the project.
+A. How many buildings does the university have?
+(B). What information is filled in by students at the time of enrollment?
+C. What is the name of the university's founder?
+D. How many students use school transport to get to the university?
+E. How long has the university existed?","O2 - Suppose you are hired to develop a program that stores and manages student information at a university. Choose the best way to store data from two distinct categories: new and old students.
+A.
+- Use a single vector / list, where the odd indices contain information from the old and the even the new students;
+- Veterans and freshmen must be represented by the same struct / class.
+B.
+- Use a single vector / list, where the odd indices contain information from the old and the even the new students;
+- Veterans and freshmen must be represented by different structs / classes.
+(C).
+- Use two vectors / lists, one of which refers to old and the other to new students;
+- Veterans and freshmen must be represented by different structs / classes.
+D.
+- Use two vectors / lists, one of which refers to old and the other to new students;
+- Veterans and freshmen must be represented by strings.
+E.
+- Use a single vector / list, where the odd indices contain information from the old and the even the new students;
+- Veterans and freshmen must be represented by strings.","O3 - Suppose you are hired to develop a program that stores and manages student information at a university. Choose the best alternative to count how many registered students are underage.
+A. The program needs to include sequential and iterative commands only - conditionals are not necessary. In iterative commands, particular preference should be given to the while statement over the for statement.
+B. The program needs to include conditional commands only - iteratives are not necessary.
+C. The program needs to include iterative commands only - conditionals are not necessary. In iterative commands, particular preference should be given to the for statement over the while statement.
+D. The program needs to include sequential, conditional and iterative commands. In iterative commands, particular preference should be given to the while statement over the for statement.
+(E). The program needs to include sequential, conditional and iterative commands. In iterative commands, particular preference should be given to the for statement over the while statement.","O4 - Suppose you are hired to develop a program that stores and manages student information at a university. Choose the best way to implement adding and searching operations to retrieve students' data in a vector/list.
+A.
+- Add student: places a student in an occupied space of the vector / list;
+- Search for student: search for a student at his / her age.
+B.
+- Add student: places a student in an occupied space of the vector / list;
+- Search for student: search for a student by his / her date of birth.
+(C).
+- Add student: place a student in a free space in the vector / list;
+- Search for student: search for a student by his / her enrollment number.
+D.
+- Add student: places a student in an occupied space of the vector / list;
+- Search for student: search for a student by email.
+E.
+- Add student: place a student in a free space in the vector / list;
+- Search for student: search for a student by his / her course.","O5 - Suppose you are hired to develop a program that stores and manages student information at a university. Choose the best alternative to permanently store the students' data.
+A. Save the information of registered students in structs / classes, as long as each struct / class is responsible for a characteristic of the student.
+B. Save the information of registered students in text files, where the information of different students is mixed between commas, on the same line.
+C. Save the information of registered students in structs / classes, where the main information is separated by fields / attributes.
+(D). Save the information of registered students in text files, where each student is on a line with their information separated by commas.
+E. Save the information of registered students in strings, where this information must be separated by blank spaces.",Total
+1,0,0,1,0,1,2
+2,1,1,1,1,1,5
+3,0,1,1,1,1,4
+4,1,1,0,1,1,4
+5,1,0,1,1,1,4
+6,0,1,1,0,1,3
+7,0,0,0,1,0,1
+8,0,1,0,1,1,3
+9,1,0,0,1,1,3
+10,1,0,0,1,1,3
+11,0,1,1,1,1,4
+12,0,1,0,1,1,3
+13,0,1,0,1,1,3
+14,0,1,1,1,0,3
+15,0,1,0,1,1,3
+16,1,1,1,1,1,5
+17,1,0,1,1,1,4
+18,0,1,1,1,1,4
+19,0,1,0,1,1,3
+20,0,0,1,1,0,2
+21,1,0,1,1,1,4
+22,1,1,0,1,1,4
+23,1,0,0,1,0,2
+24,1,1,0,1,1,4
+25,1,0,1,1,1,4
+26,1,1,0,1,0,3
+27,0,1,1,1,1,4
+28,0,1,1,1,1,4
+29,1,1,1,1,0,4
+30,0,0,1,1,1,3
+31,1,0,0,1,1,3
+32,0,1,1,1,1,4
+33,1,1,1,1,1,5
+34,1,1,1,1,1,5
+35,0,1,0,1,1,3
+36,0,1,1,1,1,4
+37,1,1,1,1,1,5
+38,1,0,1,1,1,4
+39,0,1,1,1,1,4
+40,0,1,1,1,1,4
+41,1,1,1,1,1,5
+42,1,1,1,1,1,5
+43,1,1,0,1,1,4
+44,1,0,1,1,0,3
+45,0,0,1,1,0,2
+46,1,0,0,1,0,2
+47,1,0,0,1,1,3
+48,0,0,0,1,1,2
+49,1,0,1,0,1,3
+50,1,0,1,1,0,3
+51,0,1,1,1,1,4
+52,1,0,1,1,1,4
+53,0,1,0,1,1,3
+54,0,1,1,1,1,4
+55,1,0,1,1,1,4
+56,1,1,1,1,0,4
+57,1,0,1,1,1,4
+58,0,1,1,1,1,4
+59,0,0,0,1,1,2
+Average,0.53,0.59,0.64,0.95,0.81,3.53
+Std. Dev,0.50,0.50,0.48,0.22,0.39,0.92

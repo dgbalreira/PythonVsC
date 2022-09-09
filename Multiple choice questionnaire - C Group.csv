@@ -1,0 +1,139 @@
+,"Companion data with the paper ""Investigating the impact of adopting Python and C languages for introductory engineering programming courses"" submitted to Computer Applications in Engineering Education Journal. If you use this data, please include a reference to the paper.",,,,,
+C Students,"O1 - Suppose you are hired to develop a program that stores and manages student information at a university. Choose the best alternative that represents an important question to ask at the beginning of the project.
+A. How many buildings does the university have?
+(B). What information is filled in by students at the time of enrollment?
+C. What is the name of the university's founder?
+D. How many students use school transport to get to the university?
+E. How long has the university existed?","O2 - Suppose you are hired to develop a program that stores and manages student information at a university. Choose the best way to store data from two distinct categories: new and old students.
+A.
+- Use a single vector / list, where the odd indices contain information from the old and the even the new students;
+- Veterans and freshmen must be represented by the same struct / class.
+B.
+- Use a single vector / list, where the odd indices contain information from the old and the even the new students;
+- Veterans and freshmen must be represented by different structs / classes.
+C.
+- Use two vectors / lists, one of which refers to old and the other to new students;
+- Veterans and freshmen must be represented by different structs / classes.
+D.
+- Use two vectors / lists, one of which refers to old and the other to new students;
+- Veterans and freshmen must be represented by strings.
+E.
+- Use a single vector / list, where the odd indices contain information from the old and the even the new students;
+- Veterans and freshmen must be represented by strings.","O3 - Suppose you are hired to develop a program that stores and manages student information at a university. Choose the best alternative to count how many registered students are underage.
+A. The program has sequential and iterative commands only - conditionals are not necessary. In iterative commands, particular preference should be given to the while statement over the for statement.
+B. The program has conditional commands only - iteratives are not necessary.
+C. The program has iterative commands only - conditionals are not necessary. In iterative commands, particular preference should be given to the for statement over the while statement.
+D. The program has sequential, conditional and iterative commands. In iterative commands, particular preference should be given to the while statement over the for statement.
+E. The program has sequential, conditional and iterative commands. In iterative commands, particular preference should be given to the for statement over the while statement.","O4 - Suppose you are hired to develop a program that stores and manages student information at a university. Choose the best way to implement adding and searching operations to retrieve students' data in a vector/list.
+A.
+- Add student: places a student in an occupied space of the vector / list;
+- Search for student: search for a student at his / her age.
+B.
+- Add student: places a student in an occupied space of the vector / list;
+- Search for student: search for a student by his / her date of birth.
+C.
+- Add student: place a student in a free space in the vector / list;
+- Search for student: search for a student by his / her enrollment number.
+D.
+- Add student: places a student in an occupied space of the vector / list;
+- Search for student: search for a student by email.
+E.
+- Add student: place a student in a free space in the vector / list;
+- Search for student: search for a student for his course.","O5 - Suppose you are hired to develop a program that stores and manages student information at a university. Choose the best alternative to permanently store the students' data.
+A. Save the information of registered students in structs / classes, as long as each struct / class is responsible for a characteristic of the student.
+B. Save the information of registered students in text files, where the information of different students is mixed between commas, on the same line.
+C. Save the information of registered students in structs / classes, where the main information is separated by fields / attributes.
+D. Save the information of registered students in text files, where each student is on a line with their information separated by commas.
+E. Save the information of registered students in strings, where this information must be separated by blank spaces.",Total
+1,1,0,1,1,1,4
+2,0,0,0,0,0,0
+3,1,1,1,1,1,5
+4,1,1,0,1,1,4
+5,1,1,0,1,1,4
+6,1,1,0,1,1,4
+7,1,1,1,1,1,5
+8,0,1,0,1,1,3
+9,0,0,1,1,1,3
+10,1,0,0,0,0,1
+11,1,0,0,0,0,1
+12,1,0,1,1,1,4
+13,0,1,1,1,1,4
+14,1,0,1,1,1,4
+15,0,1,0,1,1,3
+16,1,1,1,1,0,4
+17,0,1,1,1,1,4
+18,0,0,0,0,0,0
+19,1,1,1,1,1,5
+20,0,0,0,0,0,0
+21,1,1,1,1,1,5
+22,0,1,0,1,1,3
+23,0,1,1,1,1,4
+24,0,0,0,0,0,0
+25,1,1,0,1,1,4
+26,1,0,0,0,0,1
+27,1,0,0,0,0,1
+28,0,1,1,1,1,4
+29,1,1,1,1,1,5
+30,1,1,1,1,1,5
+31,1,1,1,1,1,5
+32,1,0,1,1,1,4
+33,1,1,0,1,1,4
+34,1,1,1,1,1,5
+35,1,0,0,0,0,1
+36,0,0,0,0,0,0
+37,1,1,1,1,1,5
+38,1,1,0,0,0,2
+39,1,0,0,1,0,2
+40,1,0,0,1,1,3
+41,0,0,0,1,0,1
+42,1,1,1,1,1,5
+43,1,1,1,1,1,5
+44,0,1,0,1,1,3
+45,1,1,1,1,1,5
+46,0,1,0,1,1,3
+47,1,1,0,1,1,4
+48,1,1,1,0,0,3
+49,1,0,0,0,0,1
+50,0,0,0,1,1,2
+51,1,0,0,0,0,1
+52,1,1,1,1,1,5
+53,1,1,1,1,0,4
+54,0,1,1,1,1,4
+55,0,1,1,1,1,4
+56,0,0,0,0,0,0
+57,1,1,0,1,1,4
+58,1,1,0,1,0,3
+59,0,0,0,1,0,1
+60,0,1,1,1,1,4
+61,1,0,0,0,0,1
+62,1,1,0,1,1,4
+63,0,0,1,1,1,3
+64,0,1,1,1,1,4
+65,1,1,1,1,1,5
+66,1,1,0,1,1,4
+67,1,1,0,1,1,4
+68,1,1,1,1,1,5
+69,1,0,0,1,1,3
+70,1,1,1,1,1,5
+71,1,1,1,1,1,5
+72,0,1,0,1,1,3
+73,0,0,0,0,0,0
+74,0,1,0,1,1,3
+75,0,0,0,1,1,2
+76,1,1,0,0,0,2
+77,1,1,1,1,1,5
+78,0,0,0,0,0,0
+79,0,1,0,1,1,3
+80,0,1,0,1,1,3
+81,1,1,1,1,1,5
+82,1,1,0,1,1,4
+83,1,0,1,1,1,4
+84,0,1,0,0,0,1
+85,0,1,1,1,1,4
+86,1,1,0,1,1,4
+87,1,1,0,1,0,3
+88,0,0,0,1,1,2
+89,0,1,1,1,1,4
+90,1,0,0,1,1,3
+Average,0.61,0.64,0.43,0.78,0.70,3.17
+Standard deviation,0.49,0.48,0.50,0.42,0.46,1.59

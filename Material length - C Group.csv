@@ -1,0 +1,20 @@
+,,"Companion data with the paper ""Investigating the impact of adopting Python and C languages for introductory engineering programming courses"" submitted to Computer Applications in Engineering Education Journal. If you use this data, please include a reference to the paper.",,,,,,,,
+Weeks,Curriculum,Slides,Video Theory 1,Video Theory 2,Video Theory 3,Class - Theory Sum,Video Practice 1,Video Practice 2,Class - Practice Sum,Total
+1,Course presentation,34,0:28:36,-,-,0:22:53,0:23:27,-,0:23:27,0:46:20
+2,Sequence programming,45,0:30:28,-,-,0:30:28,0:25:15,-,0:25:15,0:55:43
+3,Conditional programming 1 (if),43,0:44:55,-,-,0:44:55,0:16:38,-,0:16:38,1:01:33
+4,"Conditional programming 2 (if-else, switch)",14,0:21:57,-,-,0:21:57,0:23:52,-,0:23:52,0:45:49
+5,"Iterative programming 1 (while, do-while)",49,0:42:38,0:30:09,-,1:12:47,0:18:01,0:16:39,0:34:40,1:47:27
+6,Iterative programming 2 (for),35,0:26:01,0:20:36,0:21:40,1:08:17,0:20:43,-,0:20:43,1:29:00
+7,Data structures 1 (array),90,0:59:53,-,-,0:59:53,0:40:22,-,0:40:22,1:40:15
+8,Data structures 2 (string),109,0:41:44,0:35:25,0:25:08,1:42:17,0:12:16,0:14:53,0:27:09,2:09:26
+9,Data structures 3 (multidimensional array),54,1:00:29,-,-,1:00:29,0:33:04,-,0:33:04,1:33:33
+10,1st exam,,-,-,-,,-,-,-,0:00:00
+11,Subprogramming 1 (introduction),93,1:15:04,0:16:02,-,1:31:06,0:15:32,-,0:15:32,1:46:38
+12,Subprogramming 2 (parameters and returns),63,0:43:32,-,-,0:43:32,0:19:46,-,0:19:46,1:03:18
+13,Subprogramming 3 (pointers),82,1:07:22,0:30:16,-,1:37:38,0:33:16,-,0:33:16,2:10:54
+14,Structs,49,0:43:34,0:23:08,-,1:06:42,0:28:19,-,0:28:19,1:35:01
+15,Files,68,1:10:33,-,-,1:10:33,0:21:54,-,0:21:54,1:32:27
+16,2nd exam,-,-,-,-,-,-,-,-,-
+17,Retake exam,-,-,-,-,-,-,-,-,-
+,Total:,828,-,-,-,11:24:38,-,-,4:36:43,16:01:21
